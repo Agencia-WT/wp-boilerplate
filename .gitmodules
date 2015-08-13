@@ -5,3 +5,6 @@
   path = public/wp
   url = git@github.com:WordPress/WordPress.git
   ignore = dirty
+[submodule "public/content/themes/wp-theme-boilerplate"]
+	path = public/content/themes/wp-theme-boilerplate
+	url = https://github.com/Agencia-WT/wp-theme-boilerplate
